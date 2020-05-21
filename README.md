@@ -15,4 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-| ![](https://github.com/bieeldeveloper/flutter-instagram-ui/blob/master/screenshots/print2.png?raw=true)  |  ![](https://github.com/bieeldeveloper/flutter-instagram-ui/blob/master/screenshots/print1.png?raw=true) |
+| ![](https://github.com/bieeldeveloper/flutter-instagram-ui/blob/master/screenshots/print2.png?raw=true)  | ![](https://github.com/bieeldeveloper/flutter-instagram-ui/blob/master/screenshots/print1.png?raw=true) |
+| :------------: | :------------: |
